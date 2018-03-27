@@ -2,7 +2,7 @@
 import os
 from copy import deepcopy
 
-from openprocurement.contracting.api.tests.base import (
+from openprocurement.contracting.core.tests.base import (
    test_contract_data as base_test_contract_data,
    documents,
    BaseWebTest as BaseBaseWebTest
